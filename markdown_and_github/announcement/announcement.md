@@ -14,4 +14,4 @@ Scott Kleinman, one of the WE1S project&#39;s PIs, will lead the workshop. A pro
 
 The workshop is geared for beginners, including students and faculty. It will also serve the purpose of helping to train some of WE1S&#39;s research assistants in methods used by the project.
 
-<div style="font-size: 70%;">(Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.)</div>
+<div style="font-size: 60%;">(Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.)</div>
