@@ -16,7 +16,11 @@ Visual Studio Code is a code editor. It many programming and markup languages, b
 
 ### GitHub
 
-To use GitHub, you must have a GitHub account. Start by creating an account at [https://github.com/join](https://github.com/join). Then download the [GitHub Client](https://desktop.github.com/) installer and install it on your system. That's it.
+To use GitHub during the workshop, you must have a GitHub account.
+
+1. Join: Start by creating an account at [https://github.com/join](https://github.com/join).
+2. Download: Then download the [GitHub Client](https://desktop.github.com/) installer and install it on your system.
+3. Star: Click the Star button at the top of this page let us know your account name for the workshop
 
 More material will be added soon...
 
