@@ -5,5 +5,7 @@
       "path": "announcement.md",
     },{
       "path": "assets/word/announcement.docx",
-    },]
+    },{
+      "path": "assets/pdf/announcement.pdf",
+    }]
 }
