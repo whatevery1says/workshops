@@ -6,7 +6,7 @@ The Mellon Foundation funded WhatEvery1Says project at UCSB (WE1S) will be holdi
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/320px-Markdown-mark.svg.png" alt-text="Markdown Mark logo" align="right">- Markdown is a plain text format for writing structured documents. First developed in 2004, Markdown is gaining in popularity because it is easy to write and read, as well as to create consistent formatting that can be rendered in a wide variety of formats and environments, including GitHub.
 
-<img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" alt-text="GitHub Octocat Logo" align="right" width="320")
+<img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" alt-text="GitHub Octocat Logo" align="right" width="320">
 
 - GitHub is a Web-based document and code repository hosting service that provides extensive version control functions and features designed for collaboration. Widely used for computer code, GitHub is becoming increasingly popular with humanities scholars needing these features, and even for hosting blogs and websites.
 
