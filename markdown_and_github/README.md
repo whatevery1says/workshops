@@ -16,8 +16,12 @@ Visual Studio Code is a code editor. It many programming and markup languages, b
 
 ### GitHub
 
-To use GitHub, you must have a GitHub account. Start by creating an account at [https://github.com/join](https://github.com/join). Then download the [GitHub Client](https://desktop.github.com/) installer and install it on your system. That's it.
+To get some hands-on experience with GitHub, we will play with a sandbox repository set up for this workshop.
+
+1. To use GitHub, you must have a GitHub account. If you already have one, skip to step 2. To create an account, go to [https://github.com/join](https://github.com/join) and follow the instructions.
+1. Make sure that you are logged into your GitHub account. Go to [https://github.com/whatevery1says/workshops/tree/master/markdown_and_github](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github). At the top of the screen, click the "Star" button. This will provide easy access to your username so that you can be added as a collaborator to the workshop sandbox repository.
+1. Finally, download the [GitHub Client](https://desktop.github.com/) installer and install it on your system.
 
 More material will be added soon...
 
-Last Update: November 27, 2017
+Last Update: November 29, 2017
