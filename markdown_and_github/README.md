@@ -16,9 +16,9 @@ Across the disciplines, including in the social sciences and humanities, researc
 
 The workshop is geared for beginners, including students and faculty. It will also serve the purpose of helping to train some of WE1S's research assistants in methods used by the project.
 
-To RSVP and for preparatory steps to get the most advantage from the workshop, go to [bit.ly/we1s_workshop_1](https://bit.ly/we1s_workshop_1). If you have questions, email [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
+If you have questions, email [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu). To get the most advantage from the workshop, please follow the **Preparing for the Workshop** instructions below.
 
-<div style="font-size: 80%;" markdown="1">(Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.)</div>
+Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.
 
 ## Preparing for the Workshop
 
