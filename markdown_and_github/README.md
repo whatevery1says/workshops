@@ -2,7 +2,25 @@
 
 ## First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research
 
-### December 12, 2017
+### Tuesday December 12, 2017, 12-3pm, UCSB South Hall 2509
+
+The Mellon Foundation funded WhatEvery1Says project at UCSB (WE1S) will be holding the first in its series of workshops open to the UCSB community on "Markdown & Github: First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research."
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/320px-Markdown-mark.svg.png" alt-text="Markdown Mark logo" align="right" height="80" style="height: 80px;"> Markdown is a plain text format for writing structured documents. First developed in 2004, Markdown is gaining in popularity because it is easy to write and read, as well as to create consistent formatting that can be rendered in a wide variety of formats and environments, including GitHub.
+
+- <img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" alt-text="GitHub Octocat Logo" align="right" height="100" style="height: 100px;">GitHub is a Web-based document and code repository hosting service that provides extensive version control functions and features designed for collaboration. Widely used for computer code, GitHub is becoming increasingly popular with humanities scholars needing these features, and even for hosting blogs and websites.
+
+Across the disciplines, including in the social sciences and humanities, researchers are using these tools to create research environments that enable the maintenance of stable, easy-to-migrate documents, the clear versioning of their work, and the ability to contribute to and draw from shared-project resources.
+
+**Scott Kleinman**, one of the WE1S project's PIs, will lead the workshop. A professor of English at California State University, Northridge, Kleinman is also project lead for the Lexomics project, which produces the online text-analysis tool Lexos.
+
+The workshop is geared for beginners, including students and faculty. It will also serve the purpose of helping to train some of WE1S's research assistants in methods used by the project.
+
+To RSVP and for preparatory steps to get the most advantage from the workshop, go to [bit.ly/we1s_workshop_1](https://bit.ly/we1s_workshop_1). If you have questions, email [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
+
+<div style="font-size: 80%;" markdown="1">(Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.)</div>
+
+## Preparing for the Workshop
 
 For the December 12 workshop we are hoping to get the whole WhatEvery1Says team working with a common set of tools, and this will require everyone to install two pieces of software on their computer **before the workshop**.
 
@@ -31,4 +49,4 @@ The following websites provide resources for previewing Markdown documents and c
 - [Pandoc](https://pandoc.org/)
 - [Word to Markdown Converter](https://word-to-markdown.herokuapp.com/)
 
-Last Update: November 29, 2017
+Last Update: December 1, 2017
