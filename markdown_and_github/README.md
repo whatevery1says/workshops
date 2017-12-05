@@ -4,6 +4,8 @@
 
 ### Tuesday December 12, 2017, 12-3pm, UCSB South Hall 2509
 
+### Registration: See below.
+
 The Mellon Foundation funded WhatEvery1Says project at UCSB (WE1S) will be holding the first in its series of workshops open to the UCSB community on "Markdown & Github: First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research."
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/320px-Markdown-mark.svg.png" alt-text="Markdown Mark logo" align="right" height="80" style="height: 80px;"> Markdown is a plain text format for writing structured documents. First developed in 2004, Markdown is gaining in popularity because it is easy to write and read, as well as to create consistent formatting that can be rendered in a wide variety of formats and environments, including GitHub.
@@ -16,13 +18,15 @@ Across the disciplines, including in the social sciences and humanities, researc
 
 The workshop is geared for beginners, including students and faculty. It will also serve the purpose of helping to train some of WE1S's research assistants in methods used by the project.
 
-If you have questions, email [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu). To get the most advantage from the workshop, please follow the **Preparing for the Workshop** instructions below.
+If you have questions, email [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
 
 Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.
 
-## Preparing for the Workshop
+## Registration and Preparing for the Workshop
 
-For the December 12 workshop we are hoping to get the whole WhatEvery1Says team working with a common set of tools, and this will require everyone to install two pieces of software on their computer **before the workshop**.
+Members of the WhatEver1Says Project team should install two pieces of software on their computer **before the workshop**, instructions for which are given below. Clicking the "Star" button as discussed in step 2 under GitHub will register you for the workshop.
+
+Participants who are not members of the WhatEver1Says Project team are encouraged to register by the same procedure. If you do not wish to install anything on your computer or create GitHub account, you will not be able to join in the hands-on training, but you are welcome to sit in on the workshop. In this case, please register by emailing [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
 
 ### Visual Studio Code (AKA "VS Code")
 
