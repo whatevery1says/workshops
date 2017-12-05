@@ -2,7 +2,7 @@
 
 ## First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research
 
-### Tuesday December 12, 2017, 12-3pm, UCSB South Hall 2509
+### Tuesday December 12, 2017, 12-3pm (Feel free to bring your lunch), UCSB South Hall 2509
 
 ### [Registration](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#registration-1)
 
