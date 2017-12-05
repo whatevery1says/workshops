@@ -22,11 +22,15 @@ If you have questions, email [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.ed
 
 Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](https://github.com/dcurtis/markdown-mark/blob/master/LICENSE). GitHub Octocat logo used as [permitted](https://github.com/logos) by GitHub.
 
-## Registration and Preparing for the Workshop
+## Registration
 
-Members of the WhatEver1Says Project team should install two pieces of software on their computer **before the workshop**, instructions for which are given below. Clicking the "Star" button as discussed in step 2 under GitHub will register you for the workshop.
+Members of the WhatEver1Says Project team should install two pieces of software on their computer **before the workshop**, instructions for which are given in the **Preparing for the Workshop** section below. Clicking the "Star" button as discussed in step 2 under GitHub will register you for the workshop.
 
-Participants who are not members of the WhatEver1Says Project team are encouraged to register by the same procedure. If you do not wish to install anything on your computer or create GitHub account, you will not be able to join in the hands-on training, but you are welcome to sit in on the workshop. In this case, please register by emailing [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
+Participants who are not members of the WhatEver1Says Project team are encouraged to register by the same procedure outlined in the **Preparing for the Workshop** section. If you do not wish to install anything on your computer or create GitHub account, you will not be able to join in the hands-on training, but you are welcome to sit in on the workshop. In this case, please register by emailing [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
+
+## Preparing for the Workshop
+
+To get the most out of the workshop, please install Visual Studio Code and the GitHub Client software on your computer before the workshop. Installation instructions are given below.
 
 ### Visual Studio Code (AKA "VS Code")
 
