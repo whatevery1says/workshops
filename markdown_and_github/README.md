@@ -48,13 +48,4 @@ To get some hands-on experience with GitHub, we will play with a sandbox reposit
 1. Make sure that you are logged into your GitHub account. Go to [https://github.com/whatevery1says/workshops/tree/master/markdown_and_github](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github). At the top of the screen, click the "Star" button. This will provide easy access to your username so that you can be added as a collaborator to the workshop sandbox repository.
 1. Finally, download the [GitHub Client](https://desktop.github.com/) installer and install it on your system.
 
-### Useful Links
-
-The following websites provide resources for previewing Markdown documents and converting them to other formats:
-
-- [StackEdit](https://stackedit.io/)
-- [Heck Yes Markdown](http://heckyesmarkdown.com/)
-- [Pandoc](https://pandoc.org/)
-- [Word to Markdown Converter](https://word-to-markdown.herokuapp.com/)
-
-Last Update: December 1, 2017
+Last Update: December 4, 2017.
