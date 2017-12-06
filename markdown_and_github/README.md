@@ -2,7 +2,7 @@
 
 ## First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research
 
-### Tuesday December 12, 2017, 12-3pm (Feel free to bring your lunch), UCSB South Hall 2509
+### Tuesday December 12, 2017, 12-3pm PST (Feel free to bring your lunch), 3-6pm EST, UCSB South Hall 2509
 
 Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/168650268](https://ucsb.zoom.us/j/168650268) from 11:45 am.
 
