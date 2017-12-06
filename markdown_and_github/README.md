@@ -24,6 +24,8 @@ Markdown-mark logo by Dustin Curtis, [Creative Commons Zero v1.0 Universal](http
 
 ## Registration
 
+**Please bring your laptop to the workshop!!!**
+
 Members of the WhatEver1Says Project team should install two pieces of software on their computer **before the workshop**, instructions for which are given in the [Preparing for the Workshop](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#preparing-for-the-workshop) section below. Clicking the "Star" button as discussed in step 2 under GitHub will register you for the workshop.
 
 Participants who are not members of the WhatEver1Says Project team are encouraged to register by the same procedure outlined in the [Preparing for the Workshop](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#preparing-for-the-workshop) section. If you do not wish to install anything on your computer or create GitHub account, you will not be able to join in the hands-on training, but you are welcome to sit in on the workshop. In this case, please register by emailing [contact@we1s.ucsb.edu](mailto:contact@we1s.ucsb.edu).
