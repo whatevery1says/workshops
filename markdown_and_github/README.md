@@ -4,6 +4,8 @@
 
 ### Tuesday December 12, 2017, 12-3pm (Feel free to bring your lunch), UCSB South Hall 2509
 
+Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/168650268](https://ucsb.zoom.us/j/168650268) from 11:45 am.
+
 ### [Registration](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#registration-1)
 
 The Mellon Foundation funded WhatEvery1Says project at UCSB (WE1S) will be holding the first in its series of workshops open to the UCSB community on "Markdown & Github: First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research."
