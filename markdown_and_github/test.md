@@ -15,4 +15,4 @@ To resolve the conflict follow the procedure below:
 
 ***
 
-It was modified locally.
+It was modified on my local machine.
