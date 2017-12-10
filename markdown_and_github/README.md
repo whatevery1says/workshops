@@ -52,6 +52,6 @@ To get some hands-on experience with GitHub, we will play with a sandbox reposit
 1. Make sure that you are logged into your GitHub account. Go to [https://github.com/whatevery1says/workshops/tree/master/markdown_and_github](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github). At the top of the screen, click the "Star" button. This will provide easy access to your username so that you can be added as a collaborator to the workshop sandbox repository.
 1. Finally, download the [GitHub Client](https://desktop.github.com/) installer and install it on your system.
 
-Further materials for this workshop are available at [https://whatevery1says.github.io/workshops/markdown-and-github/index.html](https://whatevery1says.github.io/workshops/markdown-and-github/.html).
+Further materials for this workshop are available at [https://whatevery1says.github.io/workshops/markdown-and-github/index.html](https://whatevery1says.github.io/workshops/markdown-and-github/index.html).
 
 Last Update: December 10, 2017.
