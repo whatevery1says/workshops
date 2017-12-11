@@ -4,6 +4,8 @@
 
 ### Tuesday December 12, 2017, 12-3pm PST (Feel free to bring your lunch), 3-6pm EST, UCSB South Hall 2509
 
+<h4 style="color:red">The workshop has been postponed until January due to wildfires. The new date will be posted here as soon as it is confirmed.</h4>
+
 Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/168650268](https://ucsb.zoom.us/j/168650268) from 11:45 am.
 
 ### [Registration](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#registration-1)
