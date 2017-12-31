@@ -1,6 +1,6 @@
 # WE1S Workshop on Markdown &amp; Github
 
-## **Friday, January 26, 2017, 12:30-3:30pm PST (Feel free to bring your lunch), 3:30-6:30pm EST, UCSB South Hall 2509**
+## **Friday, January 26, 2018, 12:30-3:30pm PST (Feel free to bring your lunch), 3:30-6:30pm EST, UCSB South Hall 2509**
 
 The Mellon Foundation funded WhatEvery1Says project at UCSB (WE1S) will be holding the first in its series of workshops open to the UCSB community on &quot;Markdown &amp; Github: First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research.&quot;
 
