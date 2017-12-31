@@ -2,11 +2,9 @@
 
 ## First Steps Toward learning Modern Digital Practices for Sustainable and Shareable Research
 
-### Tuesday December 12, 2017, 12-3pm PST (Feel free to bring your lunch), 3-6pm EST, UCSB South Hall 2509
+### Friday, January 26, 2017, 12:30-3:30pm PST (Feel free to bring your lunch), 3:30-6:30pm EST, UCSB South Hall 2509
 
-<h4 style="color:red">The workshop has been postponed until January due to wildfires. The new date will be posted here as soon as it is confirmed.</h4>
-
-Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/168650268](https://ucsb.zoom.us/j/168650268) from 11:45 am.
+Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/168650268](https://ucsb.zoom.us/j/168650268) from 12:15 am.
 
 ### [Registration](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#registration-1)
 
