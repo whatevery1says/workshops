@@ -4,7 +4,7 @@
 
 ### Friday, January 26, 2018, 12:30-3:30pm PST (Feel free to bring your lunch), 3:30-6:30pm EST, UCSB South Hall 2509
 
-Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/168650268](https://ucsb.zoom.us/j/168650268) from 12:15 am.
+Remote attendees can access the workshop stream at [https://ucsb.zoom.us/j/933476428](https://ucsb.zoom.us/j/933476428) from 12:15 am.
 
 ### [Registration](https://github.com/whatevery1says/workshops/tree/master/markdown_and_github#registration-1)
 
